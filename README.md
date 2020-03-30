@@ -1,4 +1,4 @@
-# ARITH-Language-Parser-and-Interpreter
+# ARITH Language Parser and Interpreter
 Parser and Evaluator for ARITH Language using Python
 
 Example: 
